@@ -1,0 +1,13 @@
+{
+    "name": "arcade-mp3",
+    "version": "0.1.0",
+    "description": "MP3 audio extension for MakeCode Arcade",
+    "dependencies": {
+        "core": "*",
+        "arcade": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "public": true
+}
